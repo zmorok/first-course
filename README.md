@@ -1,12 +1,8 @@
 # first course
 
-Сейчас в списке:
-
----
-
 ### 1 семестр:
 
-- Основы алгоритмизации и программирования
+- Основы алгоритмизации и программирования (часть 1)
   - _basics of algorithmization and programming_
 - Компьютерные языки разметки
   - _computer markup languages_
@@ -17,5 +13,9 @@
 
 ### 2 семестр:
 
+- Основы алгоритмизации и программирования (часть 2)
+  - _basics of algorithmization and programming_
 - Структуры данных
   - _data structures_
+- Скриптовые языки программирования (React)
+  - _scripting languages (react)_
